@@ -1,16 +1,14 @@
-Tarih: 10 Mayıs 2025
+# Journal (Günlük)
 
-📌 Yapılan İş:
-  GitHub hesabı açıldı.
-  İlk repository oluşturuldu: ilk-repository
-  README dosyası eklendi.
-  Repository public olarak ayarlandı.
+## 📅 10 Mayıs 2025
 
-🎯 Amaç:
-  GitHub kullanımına alışmak.
-  Basit projeleri buraya kaydetmeye başlamak.
+### 📌 Yapılan İş:
+- Repository oluşturuldu: `ilk-repository`
+- README dosyası eklendi.
 
-🔄 Sonraki Adım:
-  Bir HTML sayfası oluşturup yüklemek.
-  Commit ve versiyon takibi kavramlarını öğrenmek.
+### 🎯 Amaç:
+- GitHub kullanımını öğrenmek.
+
+### 🔄 Sonraki Adım:
+- `index.html` dosyasını eklemek.
 
